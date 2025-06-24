@@ -34,4 +34,6 @@ Next.js, JWT, Context API
 Git, GitHub, NPM, Heroku, Netlify, Vercel, Render  
 Chart.js, Figma
 
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reazulislamreaz&show_icons=true&theme=tokyonight" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=reazulislamreaz&theme=tokyonight" /> </p>
 
