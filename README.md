@@ -1,4 +1,4 @@
-![I'm a Fullstack developer](https://media.licdn.com/dms/image/v2/D4E16AQFPaLM96Q95SQ/profile-displaybackgroundimage-shrink_350_1400/B4EZWBmkeUH0Ac-/0/1741636127642?e=1756339200&v=beta&t=yqmOIn7ApDAS370H--ObsfZcyvk5NEgz4CKwSJK0HJs)
+![I'm a Fullstack developer](https://i.postimg.cc/j5VGsNQf/image.jpg)
 
 <h1 align="center">Hi 👋, I'm Reazul Islam Reaz</h1>
 <h3 align="center">🚀 MERN Stack Developer | Strong Communicator & Team Leader </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
