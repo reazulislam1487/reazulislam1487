@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reazul Islam Reaz</h1>
-<h3 align="center">🚀 MERN Stack Developer | Aspiring Journalist | Passionate Problem Solver</h3>
+<h3 align="center">🚀 MERN Stack Developer | Strong Communicator & Team Leader</h3>
 
 ---
 
