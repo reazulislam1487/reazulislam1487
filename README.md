@@ -63,6 +63,17 @@ const reaz = {
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ab.hamid.8586) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ab-hamid8) 
 
+### 🖥️ My DevSetup
+
+<img src="https://img.shields.io/badge/Laptop-Lenovo%20ThinkPad-555555.svg?&style=flat-square&logo=lenovo&logoColor=E2231A">
+<img src="https://img.shields.io/badge/OS-Windows%2011-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6">
+<img src="https://img.shields.io/badge/Browser-Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C">
+<img src="https://img.shields.io/badge/Editor-VS%20Code-555555.svg?&style=flat-square&logo=visual-studio-code&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Terminal-PowerShell-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Deployment-Vercel-555555.svg?&style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Design-Figma-555555.svg?&style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Music-YouTube-555555.svg?&style=flat-square&logo=youtube&logoColor=FF0000">
+
 ### ⚙️ Some Tools and Tech I Use
 
 <p align="center">
@@ -84,19 +95,23 @@ const reaz = {
   <code><img height="30" src="https://avatars.githubusercontent.com/u/96314444?s=200&v=4" alt="Framer Motion" /></code>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">📊 My GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&theme=github_dark&hide=prs,issues&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues" width="48%" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislam1487&theme=dark" width="45%" />
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislam1487&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
   </a>
 </p>
 
+<h3 align="center">📚 Most Used Languages</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=github_dark&langs_count=8" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
 </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
