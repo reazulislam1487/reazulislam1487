@@ -65,14 +65,7 @@ const reaz = {
 
 ### 🖥️ My DevSetup
 
-<img src="https://img.shields.io/badge/Laptop-Lenovo%20ThinkPad-555555.svg?&style=flat-square&logo=lenovo&logoColor=E2231A">
-<img src="https://img.shields.io/badge/OS-Windows%2011-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6">
-<img src="https://img.shields.io/badge/Browser-Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C">
-<img src="https://img.shields.io/badge/Editor-VS%20Code-555555.svg?&style=flat-square&logo=visual-studio-code&logoColor=007ACC">
-<img src="https://img.shields.io/badge/Terminal-PowerShell-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Deployment-Vercel-555555.svg?&style=flat-square&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Design-Figma-555555.svg?&style=flat-square&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Music-YouTube-555555.svg?&style=flat-square&logo=youtube&logoColor=FF0000">
+<img src="https://img.shields.io/badge/Laptop-Lenovo%20ThinkPad-555555.svg?&style=flat-square&logo=lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/OS-Windows%2011-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Browser-Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/Editor-VS%20Code-555555.svg?&style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-PowerShell-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Deployment-Vercel-555555.svg?&style=flat-square&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Design-Figma-555555.svg?&style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Music-YouTube-555555.svg?&style=flat-square&logo=youtube&logoColor=FF0000">
 
 ### ⚙️ Some Tools and Tech I Use
 
