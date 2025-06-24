@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-I'm a passionate MERN Stack Developer from Bangladesh 🇧🇩, with a background in Political Science and a deep interest in both web technology and media. I'm currently learning full-stack development through Programming Hero and building real-world projects that solve meaningful problems.
+I'm a passionate MERN Stack Developer from Bangladesh 🇧🇩, with a background in Political Science and a deep interest in web technology. I'm currently learning full-stack development through Programming Hero and building real-world projects that solve meaningful problems.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
