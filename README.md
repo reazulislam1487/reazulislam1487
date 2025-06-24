@@ -108,6 +108,13 @@ const reaz = {
 </p>
 
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reazulislam1487&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
