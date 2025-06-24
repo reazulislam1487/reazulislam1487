@@ -42,8 +42,33 @@ I'm a passionate MERN Stack Developer from Bangladesh 🇧🇩, with a backgroun
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Abhamid3311&theme=dark)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhamid3311&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhamid3311&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const reaz = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "HTML", "CSS"],
+    askMeAbout: ["full-stack development", "React", "Node.js", "MongoDB", "Firebase"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "DaisyUI", "Bootstrap"],
+            uiLibraries: ["Framer Motion", "MUI"],
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+        },
+        auth: ["Firebase Auth", "JWT"],
+        databases: ["MongoDB", "Firebase"],
+        devTools: ["Git", "GitHub", "VS Code", "Postman", "Netlify", "Vercel", "Render"],
+        misc: ["REST APIs", "Context API", "React Router", "React Hook Form", "Redux"],
+    },
+    currentLearning: ["Advanced React Patterns", "JWT with Firebase", "Web Security"],
+    projects: ["Marathon Zone", "GreenCircle"],
+    currentFocus: "Building clean, scalable MERN apps and growing as a full-stack developer",
+    funFact: "I study political science and dream of combining tech with journalism!"
+};
+```
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
