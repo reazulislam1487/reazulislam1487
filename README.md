@@ -68,14 +68,18 @@ const reaz = {
 
 
 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&theme=radical&hide=prs,issues&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reazulislam1487&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&theme=github_dark&hide=prs,issues&count_private=true" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reazulislam1487&theme=github-dark-blue" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislamreaz&layout=compact&theme=radical&langs_count=8" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=github_dark&langs_count=8" width="50%" />
 </p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
