@@ -25,25 +25,13 @@ I'm a passionate MERN Stack Developer from Bangladesh 🇧🇩, with a backgroun
 
 ## 💻 Tech Stack
 
-```js
-💻 Languages: JavaScript, HTML5, CSS3
-🌐 Frontend: React.js, Tailwind CSS, Framer Motion
-🛠 Backend: Node.js, Express.js
-🔐 Auth: Firebase Auth, JWT
-🗄 Database: MongoDB, Firebase
-🧰 Tools: Git, GitHub, Netlify, Vercel, Postman, Figma
-🌐 Socials
+```txt
+HTML5, CSS3, JavaScript, TypeScript  
+React, React Router, React Query, React Hook Form, Redux  
+Node.js, Express.js, MongoDB, Firebase  
+Tailwind CSS, DaisyUI, MUI, Bootstrap, SASS, Styled Components  
+Next.js, JWT, Context API  
+Git, GitHub, NPM, Heroku, Netlify, Vercel, Render  
+Chart.js, Figma
 
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reazulislamreaz&show_icons=true&theme=tokyonight" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=reazulislamreaz&theme=tokyonight" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reazulislamreaz&theme=gruvbox&margin-w=10" /> </p>
-✍️ Random Dev Quote
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/></p>
-📌 Featured Projects
-🏃 Marathon Zone — Full-stack event registration platform
-
-🌱 GreenCircle (Coming soon) — Gardening tips + subscription box app
-
-🧪 More exciting projects in progress...
