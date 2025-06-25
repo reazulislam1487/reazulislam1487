@@ -1,6 +1,15 @@
 ![I'm a Fullstack developer](https://i.postimg.cc/pXbVngWN/Banner01.jpg)
 
-<h1 align="center">Hi, I'm Reazul Islam Reaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><p align="center" ><a href="https://github.com/DenverCoder1/readme-typing-svg">
+<h1 align="center">Hi, I'm Reazul Islam Reaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2F855A&center=true&vCenter=true&width=435&lines=MERN+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Passionate+about+clean+UI+%26+UX;Lifelong+Learner+%7C+Team+Player+%7C+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
