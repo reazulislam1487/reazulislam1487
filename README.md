@@ -121,6 +121,3 @@ const reaz = {
 </p>
 
 ---
-## 📊 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=ReazulIslamReaz&icon=0&color=6)](https://visitcount.itsvg.in)
