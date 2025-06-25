@@ -1,18 +1,15 @@
 ![I'm a Fullstack developer](https://i.postimg.cc/pXbVngWN/Banner01.jpg)
 
-<h1 align="center">Hi, I'm Reazul Islam Reaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Reazul Islam Reaz 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2F855A&center=true&vCenter=true&width=435&lines=MERN+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Passionate+about+clean+UI+%26+UX;Lifelong+Learner+%7C+Team+Player+%7C+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=500&lines=MERN+Stack+Web+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Strong+Communicator+%26+Team+Leader;Clean+UI+%26+UX+Focused+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
-
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-
-
 
 ---
 
