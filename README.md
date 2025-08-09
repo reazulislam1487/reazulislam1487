@@ -47,11 +47,12 @@ const reaz = {
 
 🎯 **What I do:**
 - Craft clean, scalable full-stack web applications
-- Learn and work with modern web tools like React, Node.js, and MongoDB
+- Learn and work with modern web tools like JavaScript, TypeScript, React, Next.js Node.js, and MongoDB
 - Continuously improve my soft skills and communication
 - Build portfolio projects that demonstrate both design and development skills
 
 🛠 Currently Working On:
+- 🏡 Haven Keys – a property rental platform for listing and managing real estate
 - 🔥 Marathon Zone – a full-stack app for managing marathons and participants
 - 🌿 GreenCircle – a subscription-based garden tips project
 
@@ -66,6 +67,7 @@ const reaz = {
 
 - Email: reazulislam1487@gmail.com
 - WhatsApp: +8801770807782
+- [![Portfolio](https://reazul-islam-reaz.vercel.app)
 
 
 ## 🌐 Socials:
