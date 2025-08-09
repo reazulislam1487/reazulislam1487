@@ -69,7 +69,7 @@ const reaz = {
 - WhatsApp: +8801770807782
 
 ## 🌐 Portfolio:
- [![Portfolio](https://reazul-islam-reaz.vercel.app)
+- Here is my Personal Portfolio (https://reazul-islam-reaz.vercel.app)
 
 
 ## 🌐 Socials:
