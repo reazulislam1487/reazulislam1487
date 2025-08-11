@@ -1,4 +1,4 @@
-![I'm a Fullstack developer](https://i.postimg.cc/pXbVngWN/Banner01.jpg)
+![I'm a Fullstack developer](https://i.postimg.cc/fbz4nmDp/Reazul-Islam-Reaz-1.png)
 
 <h1 align="center">
   Hi, I'm Reazul Islam Reaz 
