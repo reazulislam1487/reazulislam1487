@@ -45,13 +45,13 @@ const reaz = {
     },
     backEnd: {
       js: ["Node.js", "Express.js", "NestJS"],
-      ormOdm: ["Prisma", "Mongoose"],
+      ormOdm: ["Prisma", "Mongoose", "SQL"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
       cache: ["Redis"],
       auth: ["JWT", "Firebase Authentication"],
       api: ["RESTful APIs"],
       email: ["Nodemailer", "SMTP", "IMAP"],
-      fileHandling: ["Multer", "Cloudinary"],
+      fileHandling: ["Multer", "Cloudinary", "S3"],
       realtime: ["Socket.io", "WebRTC"],
     },
     databases: {
