@@ -1,4 +1,4 @@
-![I'm a Fullstack developer](https://i.postimg.cc/XvPsCjsk/Reazul-Islam-Reaz.png)
+![I'm a Full Stack Backend Focused developer](https://i.postimg.cc/XvPsCjsk/Reazul-Islam-Reaz.png)
 
 <h1 align="center">
   Hi, I'm Reazul Islam Reaz 
