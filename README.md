@@ -126,7 +126,7 @@ const reaz = {
 - 🎟 Confaero – A scalable event and conference management SaaS platform featuring 9 role-based access levels (Super Admin, Organizer, Speaker, Volunteer, Exhibitor, Attendee, Abstract Reviewer, Sponsor, Staff).
   The platform includes QR-based attendee check-ins, exhibitor lead collection, real-time communication, and WebRTC-powered video meeting capabilities for virtual sessions and event collaboration, built with a modular and scalable          backend architecture.
 
-- 🤖 Replii.ca – An AI-powered email sending mini SaaS, focused on smart replies, automation, backend reliability, and scalable email workflows
+- 🤖 Replii.ca – An AI-powered email sending mini SaaS, focused on smart replies, automation, backend reliability, and scalable email workflows.
 
 - 🌐 TrueCrimeConsultants – A personal website for a lawyer, built with a clean, professional layout and backend support for content management and communication
 
