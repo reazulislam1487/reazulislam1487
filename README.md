@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=500&lines=Back+End+Developer;Node.js+%7C+Express.js+NestJS+%7C+MySQL+PostgreSQL+%7C+MongoDB;Strong+Communicator+%26+Team+Leader;Clean+Code+%26+Focused+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=500&lines=Backend-Focused+Full-Stack+Engineer;TypeScript+%7C+Node.js+%7C+NestJS+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Redis;REST+%7C+GraphQL+%7C+Socket.io;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,9 +15,11 @@
 
 ## 💫 About Me 
 
-I'm a passionate Full-Stack Backend Focused Developer from Bangladesh 🇧🇩. After completing multiple large-scale projects, I’m now working mainly on the backend for both **web and mobile (Flutter)** platforms.
-Learning TypeScript alongside building backend-focused SaaS systems helped me understand scalable architecture, type safety, Firebase authentication, and production-level problem solving.
-Less theory, more real-world backend engineering...
+I'm **Reazul Islam Reaz** — a **backend-focused full-stack engineer** from Bangladesh 🇧🇩. I ship **SaaS-style products** end to end: disciplined APIs, thoughtful persistence, and frontends that stay thin on business logic.
+
+My default is to design for **scale paths, safe payments, and operability** — modular services, clear API boundaries, RBAC guardrails, and production-ready auth (JWT, Firebase Google Sign-In for web & Flutter).
+
+**Currently:** Back End Developer @ **Sparktech Agency** · Portfolio → [reazul-islam-reaz.vercel.app](https://reazul-islam-reaz.vercel.app)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -26,116 +28,131 @@ const reaz = {
   pronouns: "He/Him",
   code: ["JavaScript", "TypeScript"],
   askMeAbout: [
-    "Backend-focused full-stack development",
-    "Realtime systems & event-driven architecture",
-    "MERN & modern backend architecture",
-    "REST APIs & system design",
-    "JWT, Firebase Google Sign-In & RBAC",
-    "Stripe payments, WebRTC & Socket.io",
-    "Email systems, file handling & AI-powered workflows",
-    "Flutter mobile app API integration"
+    "Scalable backend systems & API-first SaaS architecture",
+    "REST & GraphQL API design",
+    "System design, RBAC & multi-tenant guardrails",
+    "PostgreSQL, MongoDB & Redis data layers",
+    "Stripe webhooks & idempotent payment flows",
+    "Socket.io, WebRTC (ZEGOCLOUD) & real-time systems",
+    "RAG & responsible AI-assisted development",
+    "Firebase Google Sign-In for web & Flutter"
+  ],
+  coreStack: [
+    "TypeScript", "Node.js", "Express.js", "NestJS", "Go",
+    "PostgreSQL", "MySQL", "MongoDB", "Redis",
+    "React", "Next.js", "Tailwind CSS"
   ],
   technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "DaisyUI", "Bootstrap"],
-      uiLibraries: ["Framer Motion", "Ant Design (AntD)", "MUI"],
-      stateManagement: ["Redux", "Context API"],
-      forms: ["React Hook Form"],
-      routing: ["React Router"],
-      realtime: ["Socket.io", "WebRTC"],
-    },
-    backEnd: {
-      js: ["Node.js", "Express.js", "NestJS"],
+    backendAndApis: {
+      languages: ["TypeScript", "JavaScript", "Go"],
+      runtimes: ["Node.js", "Express.js", "NestJS", "FastAPI"],
+      apiStyles: ["REST APIs", "GraphQL", "Swagger / OpenAPI"],
       ormOdm: ["Prisma", "Mongoose", "SQL"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL"],
-      cache: ["Redis"],
-      auth: ["JWT", "Firebase Authentication", "Firebase Admin SDK", "Google OAuth"],
-      api: ["RESTful APIs", "Swagger / OpenAPI"],
-      payments: ["Stripe", "Webhooks"],
-      email: ["Nodemailer", "SMTP", "IMAP"],
-      fileHandling: ["Multer", "Cloudinary", "AWS S3"],
-      realtime: ["Socket.io", "ZegoCloud WebRTC"],
+      auth: ["JWT", "RBAC", "Firebase Auth", "Firebase Admin SDK"],
+      validation: ["Zod"],
+      testing: ["Postman", "Vitest", "Supertest"],
+    },
+    databasesAndData: {
+      relational: ["PostgreSQL", "MySQL", "SQL"],
+      document: ["MongoDB (Mongoose)"],
+      cache: ["Redis", "Caching strategies"],
+      design: ["Database design", "Normalization", "Query optimization"],
+    },
+    architectureAndReliability: {
+      patterns: [
+        "System design",
+        "API architecture",
+        "Microservices",
+        "Event-driven patterns",
+        "Monolith → microservice growth paths"
+      ],
+      reliability: [
+        "Rate limiting",
+        "Queue-based processing",
+        "Idempotent APIs",
+        "Structured logging",
+        "Load balancing concepts"
+      ],
+    },
+    realtimeAndIntegrations: {
+      realtime: ["Socket.io", "WebRTC", "ZEGOCLOUD"],
       mobile: ["Flutter REST API integration"],
+      email: ["Nodemailer", "SMTP", "IMAP"],
+      files: ["Multer", "Cloudinary", "AWS S3"],
+      maps: ["Google Maps API"],
       scheduling: ["node-cron", "Background jobs"],
     },
-    databases: {
-      noSQL: ["MongoDB (Mongoose)"],
-      sql: ["PostgreSQL", "MySQL"],
+    payments: {
+      providers: ["Stripe", "SSLCommerz", "M-Pesa"],
+      patterns: ["Webhooks", "Idempotent payment flows"],
     },
-    cloudAndDevOps: {
-      cloudProviders: ["AWS", "DigitalOcean"],
-      containerization: ["Docker"],
-      ciCd: ["CI/CD Pipelines (GitHub Actions)"],
-      deployment: ["Vercel", "Netlify", "Render"],
+    aiAndIntelligentSystems: {
+      patterns: ["RAG (retrieval-augmented generation)", "AI API integrations"],
+      tooling: ["Cursor", "Claude", "OpenAI Codex", "GitHub Copilot", "ChatGPT", "Gemini"],
+      focus: ["Context-aware backends", "Prompt control & validation"],
     },
-    devTools: [
-      "Git",
-      "GitHub",
-      "Postman",
-      "VS Code",
-      "Linux"
-    ],
-    misc: [
-      "Realtime communication & presence systems",
-      "Event-driven architecture",
-      "RBAC & permission systems (10+ roles)",
-      "QR-based check-in & lead collection",
-      "Email queues & background jobs",
-      "Secure file upload & media storage",
-      "Google Maps API & geocoding",
-      "Pagination, filtering & search",
-      "Performance & query optimization",
-    ],
+    devOpsAndCloud: {
+      containers: ["Docker", "Docker Compose", "Nginx"],
+      aws: ["EC2", "S3", "IAM", "VPC", "CloudWatch", "Lambda (serverless basics)"],
+      hosting: ["AWS", "DigitalOcean", "Hostinger", "Vercel", "Render"],
+      cicd: ["GitHub Actions", "CI/CD pipelines"],
+      os: ["Linux"],
+    },
+    frontendWhenNeeded: {
+      js: ["React", "Next.js", "JavaScript"],
+      css: ["Tailwind CSS", "DaisyUI", "Bootstrap"],
+      ui: ["Framer Motion", "Ant Design", "MUI", "TanStack Query"],
+    },
+    devTools: ["Git", "GitHub", "Postman", "VS Code", "Linux"],
   },
   aiIntegration: [
-    "Frontline AI integration in production systems",
-    "AI-powered email drafting & workflow automation",
-    "Prompt control, validation & hallucination management"
+    "RAG and vector-retrieval concepts in production backends",
+    "AI-assisted workflow (Cursor, Claude, Codex, Copilot) with human review",
+    "AI email automation (Replii) — sync, smart replies, reliable delivery"
   ],
   currentLearning: [
-    "Advanced NestJS patterns",
-    "Scalable real-time systems",
-    "Firebase Auth for web & Flutter mobile",
-    "Cloud infrastructure & DevOps",
-    "Secure and observable CI/CD pipelines"
+    "AI-driven software engineering (RAG, agents, embeddings)",
+    "AWS cloud & production deployment patterns",
+    "Advanced NestJS & Go service design",
+    "Scalable real-time & event-driven systems"
+  ],
+  featuredProjects: [
+    "Connectify – WhatsApp-style social (Next.js 15 + Node.js + Socket.io + ZEGOCLOUD)",
+    "Confaero – Conference ops SaaS (Express, MongoDB, JWT, QR, Firebase Google, Flutter)",
+    "Replii – AI email SaaS (NestJS, PostgreSQL, Prisma, IMAP/SMTP)",
+    "HavenKeys – Real-estate marketplace (React, Node, MongoDB, Stripe, RBAC)"
   ],
   projects: [
-    "Confaero – Enterprise Conference & Event Management SaaS (Backend + Dashboard)",
-    "Connectify – Real-time Chat, Feed & Social Platform (Next.js + Node.js)",
+    "Connectify – Real-time Chat, Feed & Social Platform",
+    "Confaero – Enterprise Conference & Event Management SaaS",
     "Replii (Twvinfast) – AI Email Assistant SaaS",
-    "Event Hub – MERN Event Management Platform",
-    "Trading Signal Platform – Subscription-based Trading Marketplace",
-    "Green Circle (Garden Tips Hub) – Subscription SaaS",
-    "Marathon Zone – Marathon Event Management System",
     "Haven Keys – Real Estate MERN Platform",
-    "Frontline – Advanced Portfolio with Dashboard",
-    "TrueCrimeConsultants – Professional Lawyer Website",
-    "nextjs-portfolio – Personal Portfolio (Next.js + Framer Motion)",
-    "Priceflow – Backend API Project",
-    "Express Modular Boilerplate – Reusable Node.js Starter"
+    "Event Hub – MERN Event Management Platform",
+    "Trading Signal Platform – Subscription Marketplace",
+    "Green Circle (Garden Tips Hub) – Subscription SaaS",
+    "Marathon Zone – Marathon Event Management",
+    "nextjs-portfolio – reazul-islam-reaz.vercel.app",
+    "Express Modular Boilerplate – Node.js Starter"
   ],
   currentFocus:
-    "Building scalable, secure, real-time-enabled cloud-native applications with strong backend systems and AI integration",
+    "API-first, production backends with safe payments, real-time features, and responsible AI integration",
+  education:
+    "BSS (Honors) Political Science — National University, Bangladesh (research & systems thinking)",
   funFact:
-    "I study political science and aim to merge technology and AI for meaningful real-world impact!",
+    "Social-science training sharpens how I research requirements, document decisions, and communicate trade-offs in engineering.",
 };
 ```
 
-🎯 **What I do:**
+🎯 **What I do** *(aligned with [my portfolio](https://reazul-islam-reaz.vercel.app)):*
 
-- Build clean, scalable backend-focused full-stack applications for web & mobile (Flutter)
-- Design REST APIs, JWT + Firebase Google authentication, and production-ready architectures
-- Implement role-based access control systems and secure user workflows
-- Integrate Stripe payments, webhooks, and SaaS subscription flows
-- Develop real-time communication features using Socket.io, WebRTC (ZegoCloud), and presence systems
-- Build QR-based verification systems for check-ins, lead collection, and event interactions
-- Work with modern technologies: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase
-- Use Docker for containerization and environment consistency
-- Implement CI/CD pipelines for automated testing & deployment
-- Deploy and manage applications on AWS and DigitalOcean
-- Design scalable systems with modular backend architecture and maintainable code practices
-- Continuously improve communication, system thinking, and code quality
+- Design **modular services** and clear **API boundaries** (REST / GraphQL)
+- Model **relational & document schemas** for real workloads (PostgreSQL, MongoDB, Prisma, Mongoose)
+- Harden **authentication, authorization, RBAC** & rate-sensitive flows (JWT, Firebase Google Sign-In)
+- Ship **Stripe-aware, idempotent payment** paths and webhook-hardening patterns
+- Build **Socket.io / WebRTC** real-time systems and event-scoped collaboration (ZEGOCLOUD, QR workflows)
+- Deploy with **Docker, Nginx, AWS & CI/CD** hygiene — pragmatic cloud targets (EC2, S3, DigitalOcean)
+- Use **AI dev tooling responsibly** (Cursor, Claude, RAG concepts) — never a substitute for tests or API review
+- Deliver across **API, data, and client layers** when the product needs a polished surface (React, Next.js)
 
 
 🛠 Currently Working On:
@@ -156,13 +173,11 @@ const reaz = {
 
 
 📚 Learning Now:
-- Backend scalability & clean architecture
-- Firebase Auth for production (web + Flutter mobile clients)
-- AI-integrated SaaS patterns
-- Docker, CI/CD, and production deployments
-- Web security, JWT + Firebase authentication & authorization
-- Real-time systems using WebRTC (ZegoCloud) and Socket.io
-- QR-based verification systems for check-ins, attendee tracking & lead collection
+- **Programming Hero Next Level** — AI-driven engineering, RAG, Docker, AWS, CI/CD capstones
+- **AWS cloud** — EC2, S3, IAM, VPC, Lambda, CloudWatch (Udemy)
+- Backend scalability, **Go** service patterns & clean architecture
+- **RAG**, embeddings & intelligent backend integrations
+- Real-time systems (Socket.io, WebRTC) & production auth flows
 ---
 
 
