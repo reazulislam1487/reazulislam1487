@@ -15,8 +15,8 @@
 
 ## 💫 About Me 
 
-I'm a passionate Full-Stack Backend Focused Developer from Bangladesh 🇧🇩. After completing multiple large-scale projects, I’m now working mainly on the backend for both web and app platforms.
-Learning TypeScript alongside building backend-focused SaaS systems helped me understand scalable architecture, type safety, and production-level problem solving.
+I'm a passionate Full-Stack Backend Focused Developer from Bangladesh 🇧🇩. After completing multiple large-scale projects, I’m now working mainly on the backend for both **web and mobile (Flutter)** platforms.
+Learning TypeScript alongside building backend-focused SaaS systems helped me understand scalable architecture, type safety, Firebase authentication, and production-level problem solving.
 Less theory, more real-world backend engineering...
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -30,8 +30,10 @@ const reaz = {
     "Realtime systems & event-driven architecture",
     "MERN & modern backend architecture",
     "REST APIs & system design",
-    "Authentication, authorization & security",
-    "Email systems, file handling & AI-powered workflows"
+    "JWT, Firebase Google Sign-In & RBAC",
+    "Stripe payments, WebRTC & Socket.io",
+    "Email systems, file handling & AI-powered workflows",
+    "Flutter mobile app API integration"
   ],
   technologies: {
     frontEnd: {
@@ -48,11 +50,14 @@ const reaz = {
       ormOdm: ["Prisma", "Mongoose", "SQL"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
       cache: ["Redis"],
-      auth: ["JWT", "Firebase Authentication"],
-      api: ["RESTful APIs"],
+      auth: ["JWT", "Firebase Authentication", "Firebase Admin SDK", "Google OAuth"],
+      api: ["RESTful APIs", "Swagger / OpenAPI"],
+      payments: ["Stripe", "Webhooks"],
       email: ["Nodemailer", "SMTP", "IMAP"],
-      fileHandling: ["Multer", "Cloudinary", "S3"],
-      realtime: ["Socket.io", "WebRTC"],
+      fileHandling: ["Multer", "Cloudinary", "AWS S3"],
+      realtime: ["Socket.io", "ZegoCloud WebRTC"],
+      mobile: ["Flutter REST API integration"],
+      scheduling: ["node-cron", "Background jobs"],
     },
     databases: {
       noSQL: ["MongoDB (Mongoose)"],
@@ -74,9 +79,11 @@ const reaz = {
     misc: [
       "Realtime communication & presence systems",
       "Event-driven architecture",
-      "RBAC & permission systems",
+      "RBAC & permission systems (10+ roles)",
+      "QR-based check-in & lead collection",
       "Email queues & background jobs",
       "Secure file upload & media storage",
+      "Google Maps API & geocoding",
       "Pagination, filtering & search",
       "Performance & query optimization",
     ],
@@ -89,15 +96,24 @@ const reaz = {
   currentLearning: [
     "Advanced NestJS patterns",
     "Scalable real-time systems",
+    "Firebase Auth for web & Flutter mobile",
     "Cloud infrastructure & DevOps",
     "Secure and observable CI/CD pipelines"
   ],
   projects: [
-    "Twvinfast (AI Email Assistant SaaS)",
-    "Frontline (Advanced Personal Portfolio with Dashboard)",
-    "Green Circle",
-    "Marathon Zone",
-    "Event Hub"
+    "Confaero – Enterprise Conference & Event Management SaaS (Backend + Dashboard)",
+    "Connectify – Real-time Chat, Feed & Social Platform (Next.js + Node.js)",
+    "Replii (Twvinfast) – AI Email Assistant SaaS",
+    "Event Hub – MERN Event Management Platform",
+    "Trading Signal Platform – Subscription-based Trading Marketplace",
+    "Green Circle (Garden Tips Hub) – Subscription SaaS",
+    "Marathon Zone – Marathon Event Management System",
+    "Haven Keys – Real Estate MERN Platform",
+    "Frontline – Advanced Portfolio with Dashboard",
+    "TrueCrimeConsultants – Professional Lawyer Website",
+    "nextjs-portfolio – Personal Portfolio (Next.js + Framer Motion)",
+    "Priceflow – Backend API Project",
+    "Express Modular Boilerplate – Reusable Node.js Starter"
   ],
   currentFocus:
     "Building scalable, secure, real-time-enabled cloud-native applications with strong backend systems and AI integration",
@@ -108,12 +124,13 @@ const reaz = {
 
 🎯 **What I do:**
 
-- Build clean, scalable backend-focused full-stack applications for web & apps
-- Design REST APIs, authentication systems, and production-ready architectures
+- Build clean, scalable backend-focused full-stack applications for web & mobile (Flutter)
+- Design REST APIs, JWT + Firebase Google authentication, and production-ready architectures
 - Implement role-based access control systems and secure user workflows
-- Develop real-time communication features using WebRTC and Socket-based systems
+- Integrate Stripe payments, webhooks, and SaaS subscription flows
+- Develop real-time communication features using Socket.io, WebRTC (ZegoCloud), and presence systems
 - Build QR-based verification systems for check-ins, lead collection, and event interactions
-- Work with modern technologies: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB
+- Work with modern technologies: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase
 - Use Docker for containerization and environment consistency
 - Implement CI/CD pipelines for automated testing & deployment
 - Deploy and manage applications on AWS and DigitalOcean
@@ -123,26 +140,28 @@ const reaz = {
 
 🛠 Currently Working On:
 
-- 🎟 Confaero – A scalable event and conference management SaaS platform featuring 9 role-based access levels (Super Admin, Organizer, Speaker, Volunteer, Exhibitor, Attendee, Abstract Reviewer, Sponsor, Staff).
-  The platform includes QR-based attendee check-ins, exhibitor lead collection, real-time communication, and WebRTC-powered video meeting capabilities for virtual sessions and event collaboration, built with a modular and scalable          backend architecture.
+- 🎟 **Confaero** – Enterprise conference & event management SaaS (**10 roles**: Super Admin, Organizer, Speaker, Volunteer, Exhibitor, Attendee, Abstract Reviewer, Sponsor, Staff, Track Chair). Backend: TypeScript, Express 5, MongoDB, Socket.io, Stripe, ZegoCloud WebRTC, QR check-in, **Firebase Google Sign-In** (`POST /api/v1/auth/google`) for web & **Flutter** (Play Store / App Store), Swagger API docs, AWS S3, node-cron.
 
-- 🤖 Replii.ca – An AI-powered email sending mini SaaS, focused on smart replies, automation, backend reliability, and scalable email workflows.
+- 💬 **Connectify** – Real-time social platform with chat, feed, friends, S3 media, and ZEGOCLOUD calls (Next.js frontend + Node.js/Socket.io backend).
 
-- 🌐 TrueCrimeConsultants – A personal website for a lawyer, built with a clean, professional layout and backend support for content management and communication
+- 🤖 **Replii.ca (Twvinfast)** – AI-powered email SaaS with smart replies, automation, and scalable email workflows.
 
-- 🏡 Haven Keys – A property rental platform with backend-driven listings, role-based access, and management features
+- 🌐 **TrueCrimeConsultants** – Lawyer website with CMS-style backend and communication features.
 
-- 🔥 Marathon Zone – A full-stack marathon management system with authentication, roles, and real-time features
+- 🏡 **Haven Keys** – Property rental platform with role-based dashboards (User, Agent, Admin).
 
-- 🌿 GreenCircle – A subscription-based SaaS platform with secure backend, payments, and scalability focus
+- 🔥 **Marathon Zone** – Full-stack marathon management with auth, roles, and real-time features.
+
+- 🌿 **GreenCircle** – Subscription-based gardening tips SaaS with secure payments.
 
 
 📚 Learning Now:
 - Backend scalability & clean architecture
+- Firebase Auth for production (web + Flutter mobile clients)
 - AI-integrated SaaS patterns
 - Docker, CI/CD, and production deployments
-- Web security, JWT authentication & authorization
-- Real-time systems using WebRTC and Socket-based communication
+- Web security, JWT + Firebase authentication & authorization
+- Real-time systems using WebRTC (ZegoCloud) and Socket.io
 - QR-based verification systems for check-ins, attendee tracking & lead collection
 ---
 
