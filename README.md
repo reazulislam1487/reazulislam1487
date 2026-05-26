@@ -17,7 +17,11 @@
 
 I'm **Reazul Islam Reaz** — a **backend-focused full-stack engineer** from Bangladesh 🇧🇩. I ship **SaaS-style products** end to end: disciplined APIs, thoughtful persistence, and frontends that stay thin on business logic.
 
-My default is to design for **scale paths, safe payments, and operability** — modular services, clear API boundaries, RBAC guardrails, and production-ready auth (JWT, Firebase Google Sign-In for web & Flutter).
+I'm a **systems-minded architect** at heart — I think in **boundaries, trade-offs, and growth paths** before code ships. **Scale and performance** are defaults, not afterthoughts: indexing, caching, query shape, rate limits, and operability under real load.
+
+I integrate **AI cleanly and responsibly** — RAG, LangChain, and API-driven intelligence with validation, fallbacks, and production guardrails — never novelty for its own sake.
+
+My default is to design for **safe payments and reliability** — modular services, clear API boundaries, RBAC guardrails, and production-ready auth (JWT, Firebase Google Sign-In for web & Flutter).
 
 **Currently:** Back End Developer @ **Sparktech Agency** · Portfolio → [reazul-islam-reaz.vercel.app](https://reazul-islam-reaz.vercel.app)
 
@@ -28,9 +32,11 @@ const reaz = {
   pronouns: "He/Him",
   code: ["JavaScript", "TypeScript"],
   askMeAbout: [
+    "Systems architecture, scale paths & performance-focused backend design",
     "Scalable backend systems & API-first SaaS architecture",
     "REST & GraphQL API design",
     "System design, RBAC & multi-tenant guardrails",
+    "Clean, modern AI integration (RAG, LangChain, production guardrails)",
     "PostgreSQL, MongoDB & Redis data layers",
     "Stripe webhooks & idempotent payment flows",
     "Socket.io, WebRTC (ZEGOCLOUD) & real-time systems",
