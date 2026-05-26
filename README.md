@@ -123,6 +123,7 @@ const reaz = {
     "Scalable real-time & event-driven systems"
   ],
   featuredProjects: [
+    "EventHub – Go microservices event platform (gRPC, GraphQL, PostgreSQL per service)",
     "Connectify – WhatsApp-style social (Next.js 15 + Node.js + Socket.io + ZEGOCLOUD)",
     "Confaero – Conference ops SaaS (Express, MongoDB, JWT, QR, Firebase Google, Flutter)",
     "Replii – AI email SaaS (NestJS, PostgreSQL, Prisma, IMAP/SMTP)",
@@ -133,7 +134,7 @@ const reaz = {
     "Confaero – Enterprise Conference & Event Management SaaS",
     "Replii (Twvinfast) – AI Email Assistant SaaS",
     "Haven Keys – Real Estate MERN Platform",
-    "Event Hub – MERN Event Management Platform",
+    "EventHub – Go microservices platform (User, Event, Ticket services + GraphQL gateway)",
     "Trading Signal Platform – Subscription Marketplace",
     "Green Circle (Garden Tips Hub) – Subscription SaaS",
     "Marathon Zone – Marathon Event Management",
@@ -160,6 +161,14 @@ const reaz = {
 - Use **AI dev tooling responsibly** (Cursor, Claude, RAG concepts) — never a substitute for tests or API review
 - Deliver across **API, data, and client layers** when the product needs a polished surface (React, Next.js)
 
+
+## 📌 Pinned
+
+### [eventHub-microservices-platform](https://github.com/reazulislamreaz/eventHub-microservices-platform)
+
+Production-style **event management platform** in **Go** — **microservices**, **system design**, and **performance-focused** architecture. **User**, **Event**, and **Ticket** services each own a **PostgreSQL** database and communicate via **gRPC**; a **GraphQL gateway** handles JWT auth, booking flows, paginated search, metrics, and rate limiting. Built to demonstrate scalable backend engineering with **Docker Compose** orchestration.
+
+---
 
 🛠 Currently Working On:
 
