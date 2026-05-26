@@ -176,6 +176,9 @@ const reaz = {
 - **Programming Hero Next Level** — AI-driven engineering, RAG, Docker, AWS, CI/CD capstones
 - **AWS cloud** — EC2, S3, IAM, VPC, Lambda, CloudWatch (Udemy)
 - Backend scalability, **Go** service patterns & clean architecture
+- **Microservices** — service boundaries, inter-service communication, and deployment patterns
+- **System design** — scalability, reliability, and production architecture trade-offs
+- **Advanced architecture** — API gateways, event-driven systems, caching, and distributed patterns
 - **RAG**, embeddings & intelligent backend integrations
 - Real-time systems (Socket.io, WebRTC) & production auth flows
 ---
