@@ -15,7 +15,7 @@
 
 ## 💫 About Me 
 
-I'm **Reazul Islam Reaz** — a **backend-focused full-stack engineer** from Bangladesh 🇧🇩. I ship **SaaS-style products** end to end: disciplined APIs, thoughtful persistence, and frontends that stay thin on business logic..
+I'm **Reazul Islam Reaz** — a **backend-focused full-stack engineer** from Bangladesh 🇧🇩. I ship **SaaS-style products** end to end: disciplined APIs, thoughtful persistence, and frontends that stay thin on business logic.
 
 I'm a **systems-minded architect** at heart — I think in **boundaries, trade-offs, and growth paths** before code ships. **Scale and performance** are defaults, not afterthoughts: indexing, caching, query shape, rate limits, and operability under real load.
 
