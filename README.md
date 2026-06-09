@@ -30,123 +30,27 @@ My default is to design for **safe payments and reliability** — modular servic
 ```JavaScript
 const reaz = {
   pronouns: "He/Him",
-  code: ["JavaScript", "TypeScript"],
+  role: "Backend-focused full-stack engineer @ Sparktech Agency 🇧🇩",
   askMeAbout: [
-    "Systems architecture, scale paths & performance-focused backend design",
-    "Scalable backend systems & API-first SaaS architecture",
-    "REST & GraphQL API design",
+    "Scalable, API-first SaaS architecture (REST & GraphQL)",
     "System design, RBAC & multi-tenant guardrails",
-    "Clean, modern AI integration (RAG, LangChain, production guardrails)",
-    "PostgreSQL, MongoDB & Redis data layers",
     "Stripe webhooks & idempotent payment flows",
-    "Socket.io, WebRTC (ZEGOCLOUD) & real-time systems",
-    "RAG & responsible AI-assisted development",
-    "Firebase Google Sign-In for web & Flutter"
+    "Socket.io / WebRTC (ZEGOCLOUD) real-time systems",
+    "Clean, responsible AI integration (RAG, LangChain)",
   ],
   coreStack: [
     "TypeScript", "Node.js", "Express.js", "NestJS", "Go",
-    "PostgreSQL", "MySQL", "MongoDB", "Redis",
-    "React", "Next.js", "Tailwind CSS"
+    "PostgreSQL", "MongoDB", "Redis",
+    "React", "Next.js", "Tailwind CSS",
   ],
-  technologies: {
-    backendAndApis: {
-      languages: ["TypeScript", "JavaScript", "Go"],
-      runtimes: ["Node.js", "Express.js", "NestJS", "FastAPI"],
-      apiStyles: ["REST APIs", "GraphQL", "Swagger / OpenAPI"],
-      ormOdm: ["Prisma", "Mongoose", "SQL"],
-      auth: ["JWT", "RBAC", "Firebase Auth", "Firebase Admin SDK"],
-      validation: ["Zod"],
-      testing: ["Postman", "Vitest", "Supertest"],
-    },
-    databasesAndData: {
-      relational: ["PostgreSQL", "MySQL", "SQL"],
-      document: ["MongoDB (Mongoose)"],
-      cache: ["Redis", "Caching strategies"],
-      design: ["Database design", "Normalization", "Query optimization"],
-    },
-    architectureAndReliability: {
-      patterns: [
-        "System design",
-        "API architecture",
-        "Microservices",
-        "Event-driven patterns",
-        "Monolith → microservice growth paths"
-      ],
-      reliability: [
-        "Rate limiting",
-        "Queue-based processing",
-        "Idempotent APIs",
-        "Structured logging",
-        "Load balancing concepts"
-      ],
-    },
-    realtimeAndIntegrations: {
-      realtime: ["Socket.io", "WebRTC", "ZEGOCLOUD"],
-      mobile: ["Flutter REST API integration"],
-      email: ["Nodemailer", "SMTP", "IMAP"],
-      files: ["Multer", "Cloudinary", "AWS S3"],
-      maps: ["Google Maps API"],
-      scheduling: ["node-cron", "Background jobs"],
-    },
-    payments: {
-      providers: ["Stripe", "SSLCommerz", "M-Pesa"],
-      patterns: ["Webhooks", "Idempotent payment flows"],
-    },
-    aiAndIntelligentSystems: {
-      patterns: ["RAG (retrieval-augmented generation)", "AI API integrations"],
-      tooling: ["Cursor", "Claude", "OpenAI Codex", "GitHub Copilot", "ChatGPT", "Gemini"],
-      focus: ["Context-aware backends", "Prompt control & validation"],
-    },
-    devOpsAndCloud: {
-      containers: ["Docker", "Docker Compose", "Nginx"],
-      aws: ["EC2", "S3", "IAM", "VPC", "CloudWatch", "Lambda (serverless basics)"],
-      hosting: ["AWS", "DigitalOcean", "Hostinger", "Vercel", "Render"],
-      cicd: ["GitHub Actions", "CI/CD pipelines"],
-      os: ["Linux"],
-    },
-    frontendWhenNeeded: {
-      js: ["React", "Next.js", "JavaScript"],
-      css: ["Tailwind CSS", "DaisyUI", "Bootstrap"],
-      ui: ["Framer Motion", "Ant Design", "MUI", "TanStack Query"],
-    },
-    devTools: ["Git", "GitHub", "Postman", "VS Code", "Linux"],
-  },
-  aiIntegration: [
-    "RAG and vector-retrieval concepts in production backends",
-    "AI-assisted workflow (Cursor, Claude, Codex, Copilot) with human review",
-    "AI email automation (Replii) — sync, smart replies, reliable delivery"
-  ],
-  currentLearning: [
-    "AI-driven software engineering (RAG, agents, embeddings)",
-    "AWS cloud & production deployment patterns",
-    "Advanced NestJS & Go service design",
-    "Scalable real-time & event-driven systems"
-  ],
-  featuredProjects: [
-    "EventHub – Go microservices event platform (gRPC, GraphQL, PostgreSQL per service)",
-    "Connectify – WhatsApp-style social (Next.js 15 + Node.js + Socket.io + ZEGOCLOUD)",
-    "Confaero – Conference ops SaaS (Express, MongoDB, JWT, QR, Firebase Google, Flutter)",
-    "Replii – AI email SaaS (NestJS, PostgreSQL, Prisma, IMAP/SMTP)",
-    "HavenKeys – Real-estate marketplace (React, Node, MongoDB, Stripe, RBAC)"
-  ],
-  projects: [
-    "Connectify – Real-time Chat, Feed & Social Platform",
-    "Confaero – Enterprise Conference & Event Management SaaS",
-    "Replii (Twvinfast) – AI Email Assistant SaaS",
-    "Haven Keys – Real Estate MERN Platform",
-    "EventHub – Go microservices platform (User, Event, Ticket services + GraphQL gateway)",
-    "Trading Signal Platform – Subscription Marketplace",
-    "Green Circle (Garden Tips Hub) – Subscription SaaS",
-    "Marathon Zone – Marathon Event Management",
-    "nextjs-portfolio – reazul-islam-reaz.vercel.app",
-    "Express Modular Boilerplate – Node.js Starter"
+  alsoUse: [
+    "Prisma", "Mongoose", "Zod", "JWT", "Firebase Auth",
+    "Docker", "Nginx", "AWS (EC2/S3/IAM)", "GitHub Actions",
   ],
   currentFocus:
-    "API-first, production backends with safe payments, real-time features, and responsible AI integration",
-  education:
-    "BSS (Honors) Political Science — National University, Bangladesh (research & systems thinking)",
-  funFact:
-    "Social-science training sharpens how I research requirements, document decisions, and communicate trade-offs in engineering.",
+    "API-first production backends with safe payments, real-time features & responsible AI",
+  learning: ["RAG & AI agents", "AWS & deployment patterns", "Go & advanced NestJS"],
+  education: "BSS (Honors) Political Science — National University, Bangladesh",
 };
 ```
 
