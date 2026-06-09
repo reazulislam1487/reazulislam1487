@@ -23,7 +23,7 @@ I integrate **AI cleanly and responsibly** — RAG, LangChain, and API-driven in
 
 My default is to design for **safe payments and reliability** — modular services, clear API boundaries, RBAC guardrails, and production-ready auth (JWT, Firebase Google Sign-In for web & Flutter).
 
-**Currently:** Back End Developer @ **Sparktech Agency** · Portfolio → [reazul-islam-reaz.vercel.app](https://reazul-islam-reaz.vercel.app)
+**Currently:** Full Stack Engineer @ **Sparktech Agency** · Portfolio → [reazul-islam-reaz.vercel.app](https://reazul-islam-reaz.vercel.app)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me.
 
