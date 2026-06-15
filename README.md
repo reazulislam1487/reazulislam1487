@@ -46,7 +46,7 @@ const reaz = {
     "Docker", "Nginx", "AWS (EC2/S3/IAM)", "GitHub Actions",
   ],
   currentFocus: "API-first backends — safe payments, real-time & responsible AI",
-  learning: ["RAG & AI agents", "AWS & deployment patterns", "Go & advanced NestJS"],
+  learning: ["Go & advanced NestJS", "Microservices & system design", "Advanced distributed architecture"],
   education: "BSS (Honors) Political Science — National University, Bangladesh",
 };
 ```
@@ -83,14 +83,10 @@ Production-style **event management platform** in **Go** — **microservices**, 
 
 
 📚 Learning Now:
-- **Programming Hero Next Level** — AI-driven engineering, RAG, Docker, AWS, CI/CD capstones
-- **AWS cloud** — EC2, S3, IAM, VPC, Lambda, CloudWatch (Udemy)
 - Backend scalability, **Go** service patterns & clean architecture
 - **Microservices** — service boundaries, inter-service communication, and deployment patterns
 - **System design** — scalability, reliability, and production architecture trade-offs
 - **Advanced architecture** — API gateways, event-driven systems, caching, and distributed patterns
-- **RAG**, embeddings & intelligent backend integrations
-- Real-time systems (Socket.io, WebRTC) & production auth flows
 ---
 
 
