@@ -196,31 +196,16 @@ Production-style **event management platform** in **Go** — **microservices**, 
 </p>
 
 
-
-
-
-<h2 align="center">📊 My GitHub Statistics</h2>
+<h2 align="center">📊 Contributions & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=reazulislamreaz&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reazulislamreaz&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=reazulislamreaz&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues,contribs" width="48%" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislamreaz&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislamreaz&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
-
-<h3 align="center">📚 Most Used Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=reazulislamreaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
-</p>
-
-
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reazulislam1487&theme=gruvbox&no-frame=true&no-bg=true&title=Commit,Issues,Stars,PullRequest,Followers,Repositories&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
-</p> -->
-
-
 
 ---
