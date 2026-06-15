@@ -15,28 +15,26 @@
 
 ## 💫 About Me 
 
-I'm **Reazul Islam Reaz** — a **backend-focused full-stack engineer** from Bangladesh 🇧🇩. I ship **SaaS-style products** end to end: disciplined APIs, thoughtful persistence, and frontends that stay thin on business logic.
+**Reazul Islam Reaz** — backend-focused full-stack engineer 🇧🇩 @ **Sparktech Agency**. I ship **SaaS end-to-end**: disciplined APIs, thoughtful persistence, thin frontends.
 
-I'm a **systems-minded architect** at heart — I think in **boundaries, trade-offs, and growth paths** before code ships. **Scale and performance** are defaults, not afterthoughts: indexing, caching, query shape, rate limits, and operability under real load.
+Systems-minded — **boundaries, trade-offs, growth paths** before code ships. **Scale & performance** by default: indexing, caching, query shape, rate limits, operability under load.
 
-I integrate **AI cleanly and responsibly** — RAG, LangChain, and API-driven intelligence with validation, fallbacks, and production guardrails — never novelty for its own sake.
+**AI** (RAG, LangChain) with validation, fallbacks & guardrails. **Payments & reliability** — modular services, API boundaries, RBAC, JWT & Firebase Google Sign-In (web & Flutter).
 
-My default is to design for **safe payments and reliability** — modular services, clear API boundaries, RBAC guardrails, and production-ready auth (JWT, Firebase Google Sign-In for web & Flutter).
-
-**Currently:** Full Stack Engineer @ **Sparktech Agency** · Portfolio → [reazul-islam-reaz.vercel.app](https://reazul-islam-reaz.vercel.app)
+Portfolio → [reazul-islam-reaz.vercel.app](https://reazul-islam-reaz.vercel.app)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```JavaScript
 const reaz = {
   pronouns: "He/Him",
-  role: "Backend-focused full-stack engineer @ Sparktech Agency 🇧🇩",
+  role: "Backend-focused full-stack @ Sparktech Agency 🇧🇩",
   askMeAbout: [
-    "Scalable, API-first SaaS architecture (REST & GraphQL)",
+    "Scalable API-first SaaS (REST & GraphQL)",
     "System design, RBAC & multi-tenant guardrails",
-    "Stripe webhooks & idempotent payment flows",
-    "Socket.io / WebRTC (ZEGOCLOUD) real-time systems",
-    "Clean, responsible AI integration (RAG, LangChain)",
+    "Stripe webhooks & idempotent payments",
+    "Socket.io / WebRTC (ZEGOCLOUD) real-time",
+    "Clean AI integration (RAG, LangChain)",
   ],
   coreStack: [
     "TypeScript", "Node.js", "Express.js", "NestJS", "Go",
@@ -47,23 +45,22 @@ const reaz = {
     "Prisma", "Mongoose", "Zod", "JWT", "Firebase Auth",
     "Docker", "Nginx", "AWS (EC2/S3/IAM)", "GitHub Actions",
   ],
-  currentFocus:
-    "API-first production backends with safe payments, real-time features & responsible AI",
+  currentFocus: "API-first backends — safe payments, real-time & responsible AI",
   learning: ["RAG & AI agents", "AWS & deployment patterns", "Go & advanced NestJS"],
   education: "BSS (Honors) Political Science — National University, Bangladesh",
 };
 ```
 
-🎯 **What I do** *(aligned with [my portfolio](https://reazul-islam-reaz.vercel.app)):*
+🎯 **What I do** ([portfolio](https://reazul-islam-reaz.vercel.app)):
 
-- Design **modular services** and clear **API boundaries** (REST / GraphQL)
-- Model **relational & document schemas** for real workloads (PostgreSQL, MongoDB, Prisma, Mongoose)
-- Harden **authentication, authorization, RBAC** & rate-sensitive flows (JWT, Firebase Google Sign-In)
-- Ship **Stripe-aware, idempotent payment** paths and webhook-hardening patterns
-- Build **Socket.io / WebRTC** real-time systems and event-scoped collaboration (ZEGOCLOUD, QR workflows)
-- Deploy with **Docker, Nginx, AWS & CI/CD** hygiene — pragmatic cloud targets (EC2, S3, DigitalOcean)
-- Use **AI dev tooling responsibly** (Cursor, Claude, RAG concepts) — never a substitute for tests or API review
-- Deliver across **API, data, and client layers** when the product needs a polished surface (React, Next.js)
+- **Modular services** & **API boundaries** (REST / GraphQL)
+- **Relational & document schemas** (PostgreSQL, MongoDB, Prisma, Mongoose)
+- **Auth, RBAC** & rate-sensitive flows (JWT, Firebase Google Sign-In)
+- **Stripe** idempotent payments & webhook hardening
+- **Socket.io / WebRTC** real-time (ZEGOCLOUD, QR workflows)
+- **Docker, Nginx, AWS & CI/CD** (EC2, S3, DigitalOcean)
+- **AI tooling** responsibly (Cursor, Claude, RAG) — not a substitute for tests or API review
+- **Full delivery** across API, data & client (React, Next.js)
 
 
 ## 📌 Pinned
