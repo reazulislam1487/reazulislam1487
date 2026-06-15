@@ -81,12 +81,6 @@ Production-style **event management platform** in **Go** — **microservices**, 
 
 - 🌐 **TrueCrimeConsultants** – Lawyer website with CMS-style backend and communication features.
 
-- 🏡 **Haven Keys** – Property rental platform with role-based dashboards (User, Agent, Admin).
-
-- 🔥 **Marathon Zone** – Full-stack marathon management with auth, roles, and real-time features.
-
-- 🌿 **GreenCircle** – Subscription-based gardening tips SaaS with secure payments.
-
 
 📚 Learning Now:
 - **Programming Hero Next Level** — AI-driven engineering, RAG, Docker, AWS, CI/CD capstones
