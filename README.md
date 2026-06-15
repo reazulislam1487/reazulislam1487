@@ -208,4 +208,10 @@ Production-style **event management platform** in **Go** — **microservices**, 
   <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislamreaz&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
+<h3 align="center">📚 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=reazulislamreaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
+</p>
+
 ---
