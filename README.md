@@ -73,9 +73,11 @@ Production-style **event management platform** in **Go** — **microservices**, 
 
 🛠 Currently Working On:
 
-- 🎟 **Confaero** – Enterprise conference & event management SaaS (**10 roles**: Super Admin, Organizer, Speaker, Volunteer, Exhibitor, Attendee, Abstract Reviewer, Sponsor, Staff, Track Chair). Backend: TypeScript, Express 5, MongoDB, Socket.io, Stripe, ZegoCloud WebRTC, QR check-in, **Firebase Google Sign-In** (`POST /api/v1/auth/google`) for web & **Flutter** (Play Store / App Store), Swagger API docs, AWS S3, node-cron.
+- 🏗 **[J&K Cabinetry CT](https://jkcabinetryct.com/)** – Wholesale cabinetry platform in production: Next.js customer site, React admin dashboard, TypeScript Express API, MongoDB, AWS S3, Stripe, and Socket.IO messaging ([dashboard](https://dashboard.jkcabinetryct.com) · [API docs](https://api.jkcabinetryct.com/api/v1/docs)).
 
 - 💬 **Connectify** – Real-time social platform with chat, feed, friends, S3 media, and ZEGOCLOUD calls (Next.js frontend + Node.js/Socket.io backend).
+
+- 🎟 **Confaero** – Enterprise conference & event management SaaS (**10 roles**: Super Admin, Organizer, Speaker, Volunteer, Exhibitor, Attendee, Abstract Reviewer, Sponsor, Staff, Track Chair). Backend: TypeScript, Express 5, MongoDB, Socket.io, Stripe, ZegoCloud WebRTC, QR check-in, **Firebase Google Sign-In** (`POST /api/v1/auth/google`) for web & **Flutter** (Play Store / App Store), Swagger API docs, AWS S3, node-cron.
 
 - 🤖 **Replii.ca (Twvinfast)** – AI-powered email SaaS with smart replies, automation, and scalable email workflows.
 
