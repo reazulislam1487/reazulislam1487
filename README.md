@@ -100,14 +100,12 @@ Production-style **event management platform** in **Go** — **microservices**, 
 ---
 
 
-## 📫 Let’s connect:
+## 📫 Let's connect:
 
-- Email: reazul.dev@gmail.com
-- WhatsApp: +8801770807782
-
-## 🌐 Portfolio:
-- Here is my Personal Portfolio (https://reazul-islam-reaz.vercel.app)
-
+- **Email:** [reazul.dev@gmail.com](mailto:reazul.dev@gmail.com)
+- **WhatsApp:** [+8801770807782](https://wa.me/8801770807782)
+- **Location:** Dhaka, Bangladesh (Remote Available)
+- **Portfolio:** [reazul-islam-reaz.vercel.app](https://reazul-islam-reaz.vercel.app)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/engineer.reazul.islam.reaz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reazulislamreaz/) 
