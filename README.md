@@ -81,7 +81,7 @@ Production-style **event management platform** in **Go** — **microservices**, 
 
 - 🤖 **Replii.ca (Twvinfast)** – AI-powered email SaaS with smart replies, automation, and scalable email workflows.
 
-- 🌐 **TrueCrimeConsultants** – Lawyer website with CMS-style backend and communication features.
+- 🌐 **TrueCrimeConsultants** – Lawyer website with CMS-style backend and communication features...
 
 
 📚 Learning Now:
