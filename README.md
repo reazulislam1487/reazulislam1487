@@ -63,7 +63,19 @@ const reaz = {
 - **Full delivery** across API, data & client (React, Next.js)
 
 
-## 📌 Pinned
+## 📌 Pinned & Highlighted Projects
+
+### [e-commerce-platform](https://github.com/reazulislamreaz/e-commerce-platform)
+
+Production-grade full-stack **apparel e-commerce platform** — **Next.js 16 storefront**, **role-gated admin console**, and **NestJS 11 REST API** backed by **PostgreSQL 17 (Prisma 7)**, **Redis 7**, and **BullMQ** worker queues.
+
+- **Stack & Architecture:** Next.js 16 (App Router), React 19, NestJS 11, TypeScript, Tailwind CSS 4, PostgreSQL 17, Prisma 7, Redis 7, BullMQ, Redux Toolkit, TanStack Query, Docker.
+- **Storefront & Catalog:** Server-side faceted search, dynamic product variant matrix, real-time stock verification, optimistic Redux cart management, and streamlined checkout workflows.
+- **Role-Gated Admin Console:** Dedicated `/admin` suite (`ADMIN` / `SUPER_ADMIN`) with inventory tracking, low-stock alerts, order lifecycle state machines, customer CRM, and CSV/XLSX export generators.
+- **Background Jobs & Message Queues:** BullMQ workers for transactional outbox relays, automated cart recovery, reservation expiry timers, and asynchronous data processing.
+- **Security & Performance:** JWT auth with rotating HTTP-only refresh cookies, granular RBAC guards, Prisma compound indexing, selective projection queries, and Docker multi-stage containerization.
+
+---
 
 ### [eventHub-microservices-platform](https://github.com/reazulislamreaz/eventHub-microservices-platform)
 
